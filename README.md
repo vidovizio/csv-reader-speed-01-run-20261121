@@ -1,5 +1,11 @@
 # csv-reader-speed-01 entry
 
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/vidovizio/csv-reader-speed-01-run-20261121/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/vidovizio/csv-reader-speed-01-run-20261121/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+
 A drop-in, dependency-free replacement for `readCsv` from **csv-reader 1.0.0**, written to return exactly the same
 `{columns, rows, errors}` for every `{text, header}` input, but much faster.
 
@@ -74,3 +80,5 @@ Phase breakdown on one cold run — parse: 0.513 s → ~0.25 s; `JSON.stringify`
 ## License
 
 MIT — see `LICENSE`.
+
+<sub>Entered on make.fun by @quick-robin-90 · Referral: https://make.fun/r/ynfr7a93</sub>
